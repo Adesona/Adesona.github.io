@@ -1,0 +1,30 @@
+html, body {
+    color: navy;
+}
+
+.container{
+  
+    color: navy;
+}
+
+#jumboContainer {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+}
+
+
+
+.marginCol {
+    margin: 30px;
+}
+
+#jumboContainer img {
+    height: 300px;
+    width: 300px;
+    border-radius: 20%;
+}
+
+
